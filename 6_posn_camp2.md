@@ -124,7 +124,7 @@ for(int i = 0; i < n; i++) {
 - [toi14-tutorial](https://github.com/tchomphoochan/toi14-tutorial) : Github ของพี่ค่ายรุ่นก่อนๆ (The Ultimate TOI14 Guide)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) : Top 50 problem ตามด้วยหัวข้อใน geeksforgeeks (แนะนำให้อ่านช่วงว่างๆเพราะหลายๆวิธีที่พี่ได้มาจากเว็บนี้) ตัวอย่างหัวข้อ *Top 50 Dynamic Programming Coding Problems for Interviews*
 - [CSES Handbook (book.pdf)](https://cses.fi/book/book.pdf) : หนังสือสำหรับคนที่ชอบอ่าน
-- **Thai CP**
+- [Thai CP](https://thai-cp.github.io/)
 
 **ข้อแนะนำเพิ่มเติม**
 - ไม่จำเป็นต้องทำหมดเพราะส่วนตัวพี่ทำแค่ Grader-chan, CSES, LeetCode ซะส่วนใหญ่ ส่วน Codeforces กับ OTOG ทำบ้างตอนหาโจทย์ดีๆใน LeetCode ไม่ได้ ส่วน GitHub ส่วนตัวพี่แนะนำให้อ่านมากเพราะอ่านแล้วเนื้อหาค่อนข้างครบ
