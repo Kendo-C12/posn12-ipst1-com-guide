@@ -54,10 +54,11 @@
 - [Programming.in.th TOI 1–20 Archive](https://programming.in.th/archive/toi)
 - **OTOG TOI 21** [OTOG](https://otog.in.th/)
 - [TOI22 official website](https://www.toi22sut.com/info)
-
-ส่วนตัวมองว่าแค่ทำ TOI ปีเก่าให้ได้เกือบทุกข้อก็พอแล้ว เพราะส่วนตัวพี่ก็ทำแค่ TOI ปีก่อนๆอย่างเดียว
+- [Pre TOI By Gean Dev](https://codeforces.com/group/y3JXgQG05K/contests)
+ส่วนตัวมองว่าแค่ทำ TOI ปีเก่าให้ได้เกือบทุกข้อก็พอแล้ว เพราะส่วนตัวพี่ก็ทำแค่ TOI ปีก่อนๆอย่างเดียว หรือจะย้อนกลับไปทำ resource ของค่าย 2 ก็ได้ความยากและเนื้อหาคล้ายๆกัน
 
 ช่วงหลังๆ TOI มักเอาโจทย์แนว interactive / communication มาเยอะขึ้นเรื่อยๆซึ่งโจทย์ต้องใช้ไหวพริบเอา พี่แนะนำว่าถ้ารู้สึกแม่นกับเนื้อหาหลักๆแล้วให้ลองเปลี่ยนไปทำโจทย์แปลกๆใน codeforces บ้าง
 
+ส่วนใครทำจะหมดแล้วรู้สึกอยากทำอีก แนะนำให้ทำโจทย์ระดับชาติของต่างประเทศซึ่งหาได้ใน OTOG หรือ [oj.uz](https://oj.uz/)
 ---
 [<- หน้าก่อนหน้า](6_posn_camp2.md) | [หน้าต่อไป ->](8_ipst_camp1.md)
